@@ -89,4 +89,4 @@ class Tickets(object):
 
 
 if __name__ == '__main__':
-Tickets().printTrainInfo()
+    Tickets().printTrainInfo()
